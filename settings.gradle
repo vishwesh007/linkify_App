@@ -1,0 +1,2 @@
+rootProject.name = "linkify_App"
+include ':app'
